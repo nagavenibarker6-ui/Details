@@ -6,3 +6,12 @@ d=int(input("Enter  the student address:")
       print(f"Age:{b}")
       print(f"USN:{c}")
       print(f"Address:{d}")
+
+e=input("Enter the teacher name:")
+f=int(input("Enter the teacher age:")
+g=int(input("Enter the teacher course code:")  
+
+      print(f"Name:{e}")
+      print(f"Age:{f}")
+      print(f"Course code:{g}")
+print("exit")
